@@ -14,7 +14,7 @@ Os testes que serão realizados na plataforma E-Players serão os testes de nave
 <h2 align="esquerda">:wrench:FERRAMENTAS</h2>
 Para realizar os testes trabalharemos com um conjunto de ferramentas chamada SELENIUM, será necessário baixar as ferramentas: Eclipse, JDK8, Apache Maven e WebDriver.
 <h2 align="esquerda">:heavy_check_mark:RESULTADO DOS TESTES</h2>
-<p align="justify">Inicialmente foi criado uma nova pasta chamada testemania dentro da pasta eclipse-workspace, ao abrir o Eclipse, foi realizado a inserção das dependências do *Selenium e Junit* dentro do arquivo teste mania/pom.xml. Dentro da pasta testemania foi criado uma class chamado testesenhas.java, dentro dessa *class* foram realizados os testes na funcionalidade do Login, observando se surgia mensagens de erro ao realizar o login.
+<p align="justify">Inicialmente foi criado uma nova pasta chamada testemania dentro da pasta eclipse-workspace, ao abrir o Eclipse, foi realizado a inserção das dependências do Selenium e Junit dentro do arquivo teste mania/pom.xml. Dentro da pasta testemania foi criado uma class chamado testesenhas.java, dentro dessa class foram realizados os testes na funcionalidade do Login, observando se surgia mensagens de erro ao realizar o login.
 Diante dos testes realizado foi possível atestar que todas as funcionalidade do Login e eventos da interface estão se comportando devidamente.
 <h2 align="esquerda">:woman_technologist:AUTORA</h2>
 <a href="https://github.com/tacimarpalheta" style="text-decoration: none;">

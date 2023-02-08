@@ -13,4 +13,9 @@ Para realizar os testes trabalharemos com um conjunto de ferramentas chamada SEL
 <p align="justify">Inicialmente foi criado uma nova pasta chamada **testemania** dentro da pasta **eclipse-workspace**, ao abrir o Eclipse, foi realizado a inserção das dependências do *Selenium e Junit* dentro do arquivo **teste mania/pom.xml**. Dentro da pasta **testemania** foi criado uma *class* chamado **testesenhas.java**, dentro dessa *class* foram realizados os *testes* na funcionalidade do *Login*, observando se surgia mensagens de erro ao realizar o login.
 Diante dos testes realizado foi possível atestar que todas as funcionalidade do Login e eventos da interface estão se comportando devidamente.
 <h2 align="esquerda">:woman_technologist:AUTORA</h2>
-(https://github.com/tacimarpalheta)
+<a href="https://github.com/tacimarpalheta" style="text-decoration: none;">
+<img style="border-radius: 50%;" src="" width="100px;"  alt="tacimarpalheta"/>
+
+<br />
+<span> Feito com ❤️ por Tacimar Palheta 👋 Entre em contato! </span> 
+</a> 

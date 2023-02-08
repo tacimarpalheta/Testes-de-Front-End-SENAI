@@ -14,7 +14,7 @@ Para realizar os testes trabalharemos com um conjunto de ferramentas chamada SEL
 Diante dos testes realizado foi possível atestar que todas as funcionalidade do Login e eventos da interface estão se comportando devidamente.
 <h2 align="esquerda">:woman_technologist:AUTORA</h2>
 <a href="https://github.com/tacimarpalheta" style="text-decoration: none;">
-<img style="border-radius: 50%;" src="" width="100px;"  alt="tacimarpalheta"/>
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/113411462?v=4" width="100px;"  alt="tacimarpalheta"/>
 
 <br />
 <span> Feito com ❤️ por Tacimar Palheta 👋 Entre em contato! </span> 
